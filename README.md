@@ -16,9 +16,13 @@ This is an example plot:
 
 # Example use
 py bot.py --cash 100000 --period 6mo --ticker AAPL
+
 py bot.py --cash 5000
+
 py bot.py --cash 100000 --period 6mo --ticker TSLA
+
 py bot.py --cash 1000000 --ticker NVDA
+
 py bot.py
 
 # Requirements
