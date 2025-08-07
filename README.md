@@ -4,6 +4,7 @@ This is a basic algorithmic trading bot written in Python.
 It simulates a buy-low-sell-high strategy based on historical data using [Yahoo Finance](https://finance.yahoo.com/).
 It saves the state of the portfolio to a text file and visualizes the data.
 
+This is an example plot
 ![Example Plot](example_plot.PNG)
 
 # Features of the trading bot
